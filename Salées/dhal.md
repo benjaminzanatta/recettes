@@ -1,5 +1,7 @@
 # Dhal
 
+![Dhal](../photos/dhal.jpg)
+
 *Pour 2 personnes*
 
 ## Ingrédients
